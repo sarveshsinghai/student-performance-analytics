@@ -140,8 +140,7 @@ If an error occurs, first check that the required packages are installed and tha
 The project demonstrates how Python, Pandas and NumPy can be used to analyze student marks. It produces student-wise totals and averages, grades, pass/fail results, top performers, subject averages and a processed CSV output.
 
 ## 14. GitHub Repository
-**Repository URL:** Add your actual GitHub repository URL here before submission.
-
+**Repository URL:** https://github.com/sarveshsinghai/student-performance-analytics.git
 ## 15. References
 - Python documentation: https://docs.python.org/3/
 - Pandas documentation: https://pandas.pydata.org/docs/
