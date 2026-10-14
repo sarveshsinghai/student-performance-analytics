@@ -1,0 +1,8 @@
+RUN INSTRUCTIONS
+
+1. Extract the ZIP.
+2. Open Terminal in the project folder.
+3. Install packages: python3 -m pip install -r requirements.txt
+4. Run: python3 main.py
+
+The output is shown in Terminal and saved to result.csv.
